@@ -37,7 +37,7 @@ body{
 header > h1{
     color: white;
     font-family: var(--font-destaque);
-    font-size: 2em;
+    font-size: 1em;
     margin-bottom: 10px;
     text-shadow: 2px 2px 0px black;
 
